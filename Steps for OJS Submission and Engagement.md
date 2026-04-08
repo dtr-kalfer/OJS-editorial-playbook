@@ -1,4 +1,5 @@
 ---
+
 # Steps for OJS Submission and Engagement
 **A Comprehensive Guide for Authors, Reviewers, and Editors**
 
@@ -80,5 +81,3 @@
 ---
 
 > **Final Note:** OJS is a "linear" system. Skipping a step or failing to "Record a Decision" can sometimes lock the submission in a previous stage, making it invisible to the next person in the chain. Always ensure you click the final "Record" or "Submit" buttons!
-
-How does this expanded version look for your instructional set?
