@@ -138,7 +138,7 @@ This project aims to become a **lightweight, open reference** for OJS teams—es
 
 ## 📄 License
 
-This project is open-source. You may adapt and reuse it for your own institution or team.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
