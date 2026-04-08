@@ -1,7 +1,6 @@
 ---
-
 # Steps for OJS Submission and Engagement
-**A Comprehensive Guide for Authors, Reviewers, and Editors**
+A Comprehensive Guide for Authors, Reviewers, and Editors
 
 ## ✍️ PHASE 1: THE AUTHOR (Initial Submission)
 
