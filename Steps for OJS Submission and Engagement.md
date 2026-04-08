@@ -1,10 +1,9 @@
----
 # Steps for OJS Submission and Engagement
 A Comprehensive Guide for Authors, Reviewers, and Editors
 
 ## ✍️ PHASE 1: THE AUTHOR (Initial Submission)
 
-### Step 1: Login & Authentication
+### Step 1: Login and Authentication
 * **Instruction:** Access the journal's URL and log in using your registered account.
 * **💡 Pro-Tip:** If you have multiple roles (e.g., Author and Reviewer), ensure your profile is configured for "Author" access.
 * **⚠️ Common Mistake:** Creating a brand new account every time you submit. Use your existing credentials to keep your publication history in one place.
