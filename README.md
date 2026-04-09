@@ -152,15 +152,16 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 🙏 Acknowledgment
+## 🎓 Credits
 
-This project is built to support basic workflows using **Open Journal Systems (OJS)**, developed by the Public Knowledge Project (PKP).
+This project is based on workflows and features from **Open Journal Systems (OJS)**, developed by the Public Knowledge Project (PKP).
 
-I acknowledge and appreciate PKP’s contribution to open-access publishing and their continued support for academic communities worldwide.
+Special thanks to PKP for their work in supporting open-access publishing and providing a robust platform for academic journals worldwide.
 
 * Website: https://pkp.sfu.ca/ojs/
 
 This repository is an independent guide and is not officially affiliated with PKP.
+
 
 ---
 
