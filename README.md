@@ -1,6 +1,6 @@
 # 📘 OJS Editorial Playbook
 
-*A practical, open guide for managing journals using Open Journal Systems (OJS)*
+*A basic and practical guide for managing journals using Open Journal Systems (OJS)*
 
 ---
 
