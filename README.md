@@ -70,16 +70,35 @@ If you're new to OJS workflows, start here:
 ## 🔁 Example Workflow
 
 ```mermaid
-graph TD
-A[Submission] --> B[Editor Assignment]
-B --> C[Reviewer Assignment]
-C --> D[Peer Review]
-D --> E{Decision}
-E -->|Revise| F[Author Revision]
-F --> C
-E -->|Accept| G[Copyediting]
-G --> H[Publication]
-E -->|Reject| I[Archive]
+flowchart TD
+
+A[Author Submits Article] --> B[Editor Initial Screening]
+
+B -->|Pass| C[Assign Reviewer]
+B -->|Fail| Z[Decline Submission]
+
+C --> D[Reviewer Evaluates]
+
+D -->|Accept| E[Editor Decision: Accept]
+D -->|Minor/Major Revisions| F[Editor: Request Revisions]
+D -->|Reject| Z
+
+F --> G[Author Submits Revision]
+
+G --> H{Editor Decision}
+
+H -->|Accept| E
+H -->|More Revisions Needed| F
+H -->|Send for Re-Review| I[New Review Round]
+
+I --> D
+
+E --> J[Copyediting]
+J --> K[Production]
+K --> L[Publication]
+
+Z --> END[End]
+L --> END
 ```
 
 ---
