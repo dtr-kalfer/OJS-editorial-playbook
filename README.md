@@ -27,9 +27,6 @@ Clear, concise descriptions of what each role does:
 * Editor
 * Reviewer
 * Author
-* Journal Manager (optional)
-
-👉 Located in: `/roles/`
 
 ---
 
@@ -40,8 +37,6 @@ Step-by-step guides and flowcharts covering:
 * Submission → Review → Publication
 * Peer review process
 * Revision cycles
-
-👉 Located in: `/workflows/`
 
 ---
 
@@ -54,15 +49,11 @@ Actionable instructions for common OJS tasks:
 * Making editorial decisions
 * Publishing articles
 
-👉 Located in: `/guides/`
-
 ---
 
 ### 📊 Visual Flowcharts
 
 Simple diagrams to help teams understand the full journal lifecycle.
-
-👉 Located in: `/assets/flowcharts/`
 
 ---
 
@@ -111,7 +102,7 @@ This repository:
 
 * ✅ Focuses on **generic OJS usage and workflows**
 * ✅ Is safe to reuse across institutions
-* ❌ Does NOT include private data, internal policies, or credentials
+* ❌ Does NOT include private data or credentials
 
 ---
 
