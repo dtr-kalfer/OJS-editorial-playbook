@@ -152,9 +152,15 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 🙌 Acknowledgment
+## 🙏 Acknowledgment
 
-Built with the goal of helping teams better understand and manage the editorial process using OJS—through clarity, simplicity, and shared knowledge.
+This project is built to support basic workflows using **Open Journal Systems (OJS)**, developed by the Public Knowledge Project (PKP).
+
+I acknowledge and appreciate PKP’s contribution to open-access publishing and their continued support for academic communities worldwide.
+
+* Website: https://pkp.sfu.ca/ojs/
+
+This repository is an independent guide and is not officially affiliated with PKP.
 
 ---
 
