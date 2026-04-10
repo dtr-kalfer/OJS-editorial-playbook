@@ -121,7 +121,7 @@ This repository:
 
 * ✅ Focuses on **generic OJS usage and workflows**
 * ✅ Is safe to reuse across institutions
-* ❌ Does NOT include private data or credentials
+* ❌ Only includes the basic user roles
 
 ---
 
