@@ -14,7 +14,7 @@ It is designed to help:
 * Existing teams improve their workflow
 * Institutions adopt consistent and efficient journal practices
 
-This playbook focuses on **general OJS workflows and best practices**, avoiding any institution-specific policies or private data.
+This playbook focuses on **general OJS workflows and best practices**, avoiding any institution-specific policies.
 
 ---
 
