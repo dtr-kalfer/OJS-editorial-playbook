@@ -14,6 +14,7 @@ A Comprehensive Guide for Authors, Reviewers, and Editors
 ### Step 3: Submission Requirements & Privacy
 * **Instruction:** Confirm all checkboxes regarding formatting, originality, and copyright.
 * **Instruction:** For keywords: type the keywords one at a time and press enter, do not copy/paste long string of text. (These are similar to YouTube's tags which help improve search results)
+* If asked what kind of file is this: choose **article text**
 * **🚫 What NOT to do:** Don’t just "click-spam" through these. These are legal and ethical confirmations. Ensure your manuscript actually meets the journal's specific style guide (e.g., APA, MLA) before checking the box.
 
 ### Step 4: Upload Manuscript (The "Blind" Upload)
