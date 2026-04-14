@@ -1,4 +1,6 @@
-# ✅ 📋 Google Scholar Readiness Checklist (for OJS)**
+# ✅ 📋 Google Scholar Readiness Checklist (for OJS)
+
+---
 
 Use this like a quick audit for your journal powered by Open Journal Systems.
 
@@ -90,3 +92,5 @@ After publishing:
 
 - Indexing may take **days to weeks**
 - No manual "submit" button for Scholar
+
+---
