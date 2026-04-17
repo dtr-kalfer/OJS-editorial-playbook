@@ -97,8 +97,21 @@ E --> J[Copyediting]
 J --> K[Production]
 K --> L[Publication]
 
+%% ISSN Readiness Section
+L --> M[ISSN Readiness Check]
+
+M --> N{Minimum Requirements Met?}
+
+N -->|Yes| O[Apply for ISSN]
+N -->|No| P[Complete Requirements]
+
+P --> M
+
+%% Notes (conceptual)
+O --> Q[ISSN Assigned]
+
 Z --> END[End]
-L --> END
+Q --> END
 ```
 
 ---
