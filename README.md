@@ -107,8 +107,7 @@ L --> END
 
 * 📌 Journal Name (finalized)
 * 🌐 Public OJS URL (accessible without login)
-* 📰 At least 1 issue published
-* Minimum 5 articles
+* 📰 At least 1 issue published with minimum of 5 articles
 * 👥 Editorial Board visible
 * 📜 Policies visible
 * About the Journal
