@@ -106,12 +106,13 @@ L --> END
 ## ✅ Minimum viable requirements for ISSN Application:
 
 * 📌 Journal Name (finalized)
-* 🌐 Public OJS URL (accessible without login)
+* 🌐 Public OJS URL (Published journals are accessible without login)
 * 📰 At least 1 issue published with minimum of 5 articles
 * 👥 Editorial Board visible
 * 📜 Policies visible
+* 📜 Publishing frequency (Annual, Quarterly..)
 * About the Journal
-* Peer Review
+* Peer Review (Double-Blind.. )
 * Author Guidelines
 * Ethics
 
