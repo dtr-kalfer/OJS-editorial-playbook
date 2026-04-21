@@ -110,7 +110,8 @@ L --> END
 * 📰 At least 1 issue published with minimum of 5 articles
 * 👥 Editorial Board visible
 * 📜 Policies visible
-* 📜 Publishing frequency (Annual, Quarterly..)
+* 📜 Publishing frequency (Annual, Biannual, Quarterly..) displayed
+* 📜 Publisher details are displayed correctly
 * About the Journal
 * Peer Review (Double-Blind.. )
 * Author Guidelines
