@@ -103,19 +103,38 @@ L --> END
 
 ---
 
-## ✅ Minimum viable requirements for ISSN Application:
+## ✅ Minimum Requirements for ISSN Application (Philippines)
 
-* 📌 Journal Name (finalized)
-* 🌐 Public OJS URL (Published journals are accessible without login)
-* 📰 At least 1 issue published with minimum of 5 articles
-* 👥 Editorial Board visible
-* 📜 Policies visible
-* 📜 Publishing frequency (Annual, Biannual, Quarterly..) displayed
-* 📜 Publisher details are displayed correctly
-* About the Journal
-* Peer Review (Double-Blind.. )
-* Author Guidelines
-* Ethics
+To apply for an ISSN via the INS-POAS system of the National Library of the Philippines, the journal must meet the following minimum requirements:
+
+### 📌 Journal Identity
+- Finalized **Journal Name**
+- Clearly defined **Publisher**
+- **Publishing Frequency** indicated (e.g., Annual, Biannual, Quarterly)
+- Publicly accessible **OJS URL** (no login required to view content)
+
+### 📰 Content Requirements (Critical)
+- At least **one (1) published issue**
+- Minimum of **five (5) complete articles** in the issue
+  - Each article must include:
+    - Title
+    - Author(s)
+    - Abstract
+    - Full content (PDF)
+
+### 👥 Editorial Information
+- Visible **Editorial Board** with names and affiliations
+
+### 📜 Supporting Journal Policies and Information
+
+- **About the Journal**
+- **Peer Review Process** (e.g., Double-Blind Review)
+- **Author Guidelines**
+- **Publication Ethics**
+
+---
+
+> **Note:** These requirements are based on the ISSN application guidelines of the National Library of the Philippines (NLP) via the INS-POAS system. Ensure all information is complete and accurate to avoid processing delays.
 
 ## 🧪 Optional: Training Mode (Role Rotation)
 
