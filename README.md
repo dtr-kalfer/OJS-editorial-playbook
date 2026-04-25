@@ -105,7 +105,7 @@ L --> END
 
 ## ✅ Minimum Requirements for ISSN Application (Philippines)
 
-To apply for an ISSN via the INS-POAS system of the National Library of the Philippines, the journal must meet the following minimum requirements:
+To apply for an ISSN via the [INS-POAS](https://ins-poas.nlp.gov.ph/) system of the National Library of the Philippines, the journal must meet the following minimum requirements:
 
 ### 📌 Journal Identity
 - Finalized **Journal Name**
@@ -135,6 +135,7 @@ To apply for an ISSN via the INS-POAS system of the National Library of the Phil
 ---
 
 > **Note:** These requirements are based on the ISSN application guidelines of the National Library of the Philippines (NLP) via the [INS-POAS](https://ins-poas.nlp.gov.ph/).
+> **Note:** ISSN application requirements may vary by country. Please refer to your national ISSN center for specific guidelines.
 
 ## 🧪 Optional: Training Mode (Role Rotation)
 
