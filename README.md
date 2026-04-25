@@ -134,7 +134,7 @@ To apply for an ISSN via the INS-POAS system of the National Library of the Phil
 
 ---
 
-> **Note:** These requirements are based on the ISSN application guidelines of the National Library of the Philippines (NLP) via the INS-POAS system. Ensure all information is complete and accurate to avoid processing delays.
+> **Note:** These requirements are based on the ISSN application guidelines of the National Library of the Philippines (NLP) via the [INS-POAS](https://ins-poas.nlp.gov.ph/).
 
 ## 🧪 Optional: Training Mode (Role Rotation)
 
