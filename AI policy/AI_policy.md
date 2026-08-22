@@ -107,26 +107,4 @@ Where **AI is itself the subject of the research** (e.g., studies evaluating mod
 
 ---
 
-## 8. Non-Compliance and Enforcement
-
-| Violation | Consequence |
-| :--- | :--- |
-| Undisclosed minor AI assistance (e.g., language editing) | Request for retroactive disclosure; editorial warning |
-| AI-generated citations/references that cannot be verified | Revision demanded; possible rejection; institutional notification if pattern persists |
-| AI-fabricated data, results, or images | Immediate rejection/retraction per COPE Retraction Guidelines; author's institution notified; submission ban considered |
-| Reviewer uploading manuscripts to AI tools | Removal from reviewer database; notification of editorial board |
-
-All investigations follow the journal's Publication Ethics & Malpractice Policy (`cope_rules.md`) and applicable COPE flowcharts.
-
----
-
-## 9. Related Documents
-
-- `cope_rules.md` — Publication Ethics & Malpractice Policy (COPE Core Practices)
-- `research_format_revised.md` — Manuscript format incl. AI Disclosure placement
-- `DOAJ_principles.md` — Transparency & Open Access Best Practices
-- External references: COPE Position Statement on Authorship and AI Tools (2023); ICMJE Recommendations; WAME Guidance on ChatGPT; EASE Guidelines; DOAJ Application Information requirements.
-
----
-
-*Policy Version 1.0. -- These policies may change, please see DOAJ, COPE, WAME and other relevant guidelines regarding AI use.*
+*Policy Version 1.0. Draft -- These policies may change, please see DOAJ, COPE, WAME and other relevant guidelines regarding AI use.*
