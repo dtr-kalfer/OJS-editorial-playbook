@@ -111,21 +111,19 @@ To apply for an ISSN via the [INS-POAS](https://ins-poas.nlp.gov.ph/) system of 
 - Finalized **Journal Name**
 - Clearly defined **Publisher**
 - **Publishing Frequency** indicated (e.g., Annual, Biannual, Quarterly)
+- Editorial Board Members
 - Publicly accessible **OJS URL** (no login required to view content)
 
-### 📰 Content Requirements (Critical)
-- At least **one (1) published issue**
-- Minimum of **five (5) complete articles** in the issue
-  - Each article must include:
-    - Title
-    - Author(s)
-    - Abstract
-    - Full content (PDF)
-
-### 👥 Editorial Information
-- Visible **Editorial Board** with names and affiliations
-
-### 📜 Supporting Journal Policies and Information
+### 📰 Content Requirements for ISSN application
+- **one (1) published issue**
+	- Cover page with Journal Title
+	- Publisher
+	- Publication Frequency
+	- Editorial Board with names and affiliation
+	- Table of Contents
+	- Five research articles (IMRAD format, Author/s, Contributors, Abstract & References)
+    
+### 📜 Supporting Journal Policies and Information in OJS
 
 - **About the Journal**
 - **Peer Review Process** (e.g., Double-Blind Review)
