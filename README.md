@@ -117,7 +117,7 @@ To apply for an ISSN via the [INS-POAS](https://ins-poas.nlp.gov.ph/) system of 
 ### 📰 Content Requirements for ISSN application
 - **one (1) published issue**
 	- Cover page with Journal Title
-	- Publisher
+	- Publisher (Complete with institutional name and address)
 	- Publication Frequency
 	- Editorial Board with names and affiliation
 	- Table of Contents
